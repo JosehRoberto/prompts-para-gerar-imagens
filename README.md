@@ -1,5 +1,4 @@
-# prompts-para-gerar-imagens
-Prompts para Gerar Imagens
+# Prompts para Gerar Imagens
 
 1. Prompts para manter seu rosto real
 2. Prompt Estruturado para manter seu rosto real
