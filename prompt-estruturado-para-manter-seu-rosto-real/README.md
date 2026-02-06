@@ -25,3 +25,43 @@
 
 ------
 
+# Foto Profissional
+
+---
+
+### [RESTRIÇÃO LEGAL]
+* **Autorização:** Uso de imagem autorizado (não viola diretrizes)
+
+### [ROSTO E FIDELIDADE]
+* **Fidelidade Facial:** 100% (Manter EXATAMENTE todas as características faciais originais da imagem de referência)
+* **Modificação Facial:** NÃO ALTERAR ou REINTERPRETAR nenhuma parte do rosto, olhos, boca, nariz, tom de pele, barba, cabelo, linha do maxilar ou proporções.
+* **Foco Principal:** Rosto do sujeito
+
+### [CENÁRIO]
+* **Tipo:** Retrato ultra-realista
+* **Local:** Rooftop de luxo
+* **Plano de Fundo:** Skyline moderno da cidade (ao fundo)
+
+### [SUJEITO E VESTUÁRIO]
+* **Traje:** Smart-casual
+* **Detalhes:** Camisa com colarinho aberto, Blazer de linho claro, Relógio visível no pulso, Óculos escuros pretos
+
+### [ESTILO E COMPOSIÇÃO]
+* **Qualidade:** Ultra-realista, 8K, 4K
+* **Composição:** Visual limpo, Editorial, Refinado (Estilo foto de revista de moda)
+* **Proporção:** Vertical 9:16
+* **Profundidade:** Profundidade de campo cinematográfica (*Cinematic depth of field*)
+* **Lente:** Simulação de lente 85mm f/1.4
+* **Desfoque:** Bokeh suave e realista (*Soft realistic bokeh*)
+* **Foco:** Foco nítido no rosto
+
+### [ILUMINAÇÃO E ESTÉTICA]
+* **Fonte:** Pôr do sol (*Golden hour*)
+* **Estilo de Iluminação:** Tons dourados suaves sobre a pele
+* **Atmosfera:** Calorosa e Elegante
+* **Textura:** Pele ultra-realista, Reflexos naturais nos óculos, Tecidos com leve movimento
+* **Cores:** Equilíbrio cromático sofisticado
+
+------
+
+
