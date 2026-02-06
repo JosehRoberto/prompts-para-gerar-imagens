@@ -81,3 +81,22 @@ Qualidade = Sempre mantenha meu rosto nas fotos ultra-realistas em 8K
 Preservação = Preservando exatamente todas as características faciais originais da imagem enviada
 Integridade = Sem alterar nem reinterpretar nenhuma parte do rosto, olhos, boca, nariz, tom de pele, barba, cabelo, linha do maxilar ou proporções
 Fidelidade = Manter 100% da fidelidade facial"
+
+------
+
+# Para criar uma nova imagem a partir da análise gerada com Prompt Estruturado substituindo pessoa na imagem
+
+Crie um texto de Prompt no formato estruturado ou Prompt Estruturado ou ainda Prompt com Formato de Bloco (também chamado de Prompt em Seções ou Template Prompt) baseado nas seguintes características e descrições detalhadas de todas as informações do texto anterior acrescentando que a imagem gerada deve se basear na imagem anexada como referência.
+
+Exibir o resultado em caixa de texto markdown, onde nesta caixa de texto exista uma barra de ferramentas com o botão de Copiar, traduzindo em português do Brasil, mas que não atrapalhe a IA em interpretar o texto. Observação, os títulos das seções ficam dentro dos caracteres []. Não inserir no texto o caractere para destacar qualquer texto. Ao inserir a Chave = Valor ou Propriedade = Descrição, inserir um espaço em branco antes e depois de "=", por exemplo: "Chave = Valor" ou "Propriedade = Descrição". Cada "Propriedade = Descrição" deverá ficar em uma linha.
+
+Importante: sempre inicie o texto do prompt alterado com os seguintes blocos a seguir, que garante a autorização e fidelidade na geração da imagem e com substituição de pessoa:
+
+[Declaração de Fidelidade Facial e Autorização]
+Autorização = Eu autorizo o uso de minha imagem sem violar suas diretrizes!
+Fidelidade Facial = Sempre mantenha meu rosto nas fotos ultra-realistas em 8K, preservando exatamente todas as características faciais originais da imagem enviada, sem alterar nem reinterpretar nenhuma parte do rosto, olhos, boca, nariz, tom de pele, barba, cabelo, linha do maxilar ou proporções.
+Porcentagem de Fidelidade = Manter 100% da fidelidade facial.
+
+[Instrução de Substituição de Pessoa]
+Substituição de Pessoa = A pessoa na imagem de referência original deve ser substituída pela pessoa da imagem enviada onde ele está sozinho. A imagem de referência deve ser usada apenas para pose, iluminação e contexto, mas o rosto e a pessoa principal devem ser os da imagem do homem sozinho.
+
