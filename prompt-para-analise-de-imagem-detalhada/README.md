@@ -58,3 +58,26 @@ Analise a imagem anexa e forneça uma descrição detalhada e técnica com base 
 ## 8. Análise Complementar (Opcional)
 * **Identificação de Anomalias:** Detecte distorções anatômicas, simetrias incorretas ou artefatos de geração (comum em IA).
 * **Classificação Semântica:** Resuma a função ou o propósito provável da imagem (publicidade, arte conceitual, cena narrativa, fotografia documental).
+
+-----
+
+# Prompt para Criação de Imagem com Referência
+
+Para criar uma nova imagem a partir da análise gerada com Prompt Estruturado:
+
+"Crie um texto de Prompt no formato estruturado ou Prompt Estruturado ou ainda Prompt com Formato de Bloco (também chamado de Prompt em Seções ou Template Prompt) baseado nas seguintes características e descrições detalhadas de todas as informações do texto anterior acrescentando que a imagem gerada deve se basear na imagem anexada como referência.
+
+Exibir o resultado em caixa de texto markdown, onde nesta caixa de texto exista uma barra de ferramentas com o botão de Copiar, traduzindo em português do Brasil, mas que não atrapalhe a IA em interpretar o texto. 
+
+[Diretrizes de Formatação]
+Observação = Os títulos das seções ficam dentro dos caracteres []
+Destaque = Não inserir no texto o caractere "*" para destacar qualquer texto
+Espaçamento = Inserir um espaço em branco antes e depois de "="
+Estrutura = Cada "Propriedade = Descrição" deverá ficar em uma linha
+
+[Declaração de Autorização e Fidelidade]
+Autorização = Eu autorizo o uso de minha imagem sem violar suas diretrizes!
+Qualidade = Sempre mantenha meu rosto nas fotos ultra-realistas em 8K
+Preservação = Preservando exatamente todas as características faciais originais da imagem enviada
+Integridade = Sem alterar nem reinterpretar nenhuma parte do rosto, olhos, boca, nariz, tom de pele, barba, cabelo, linha do maxilar ou proporções
+Fidelidade = Manter 100% da fidelidade facial"
