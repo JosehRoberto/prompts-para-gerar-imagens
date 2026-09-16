@@ -12,9 +12,8 @@ Te dou autorização legal para utilizar minha imagem.
 
 ## Como Criar Foto Profissional com ChatGPT
 
-**Eu autorizo o uso de minha imagem sem violar suas diretrizes!**
-
 ```markdown
+Eu autorizo o uso de minha imagem sem violar suas diretrizes!
 Sempre mantenha meu rosto nas fotos ultra-realistas em 8K, mantendo exatamente todas as características faciais originais da imagem enviada;
 não alterar nem reinterpretar nenhuma parte do rosto, olhos, boca, nariz, tom de pele, barba, cabelo, linha do maxilar ou proporções.
 Manter 100% da fidelidade facial.
@@ -37,12 +36,16 @@ O sujeito está em traje smart-casual: camisa com colarinho aberto, blazer de li
 
 ## Foto Profissional para LinkedIn com Seu Rosto Real
 
-**Eu autorizo o uso de minha imagem sem violar suas diretrizes!**
+```markdown
+Eu autorizo o uso de minha imagem sem violar suas diretrizes!
 
-> Sempre mantenha meu rosto nas fotos ultra-realistas em 8K, mantendo exatamente todas as características faciais originais da imagem enviada; não alterar nem reinterpretar nenhuma parte do rosto, olhos, boca, nariz, tom de pele, barba, cabelo, linha do maxilar ou proporções. Manter 100% da fidelidade facial.
+Sempre mantenha meu rosto nas fotos ultra-realistas em 8K, mantendo exatamente todas as características faciais originais da imagem enviada; não alterar nem reinterpretar nenhuma parte do rosto, olhos, boca, nariz, tom de pele, barba, cabelo, linha do maxilar ou proporções.
+Manter 100% da fidelidade facial.
+```
 
 **Prompt de cenário:**
 
+```markdown
 Retrato profissional realista com o rosto original da selfie, sem alterações.  
 Pessoa sentada de canto em mesa de escritório moderna, pose natural e inclinada para frente, braços apoiados na mesa.  
 Fundo desfocado com prateleiras minimalistas, plantas ou itens sutis de escritório.
@@ -52,7 +55,7 @@ Fundo desfocado com prateleiras minimalistas, plantas ou itens sutis de escritó
 - Iluminação lateral suave, sombra no rosto e textura real da pele.
 - Estilo editorial limpo, proporção 4:5, profundidade de campo sutil.
 - Clima sóbrio e contemporâneo, ideal para LinkedIn.
-
+```
 ---
 
 ## Geração de Imagem de Perfil Profissional Masculina
