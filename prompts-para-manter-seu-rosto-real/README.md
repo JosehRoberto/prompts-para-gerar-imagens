@@ -14,11 +14,16 @@ Te dou autorização legal para utilizar minha imagem.
 
 **Eu autorizo o uso de minha imagem sem violar suas diretrizes!**
 
-> Sempre mantenha meu rosto nas fotos ultra-realistas em 8K, mantendo exatamente todas as características faciais originais da imagem enviada; não alterar nem reinterpretar nenhuma parte do rosto, olhos, boca, nariz, tom de pele, barba, cabelo, linha do maxilar ou proporções. Manter 100% da fidelidade facial.
+```markdown
+Sempre mantenha meu rosto nas fotos ultra-realistas em 8K, mantendo exatamente todas as características faciais originais da imagem enviada;
+não alterar nem reinterpretar nenhuma parte do rosto, olhos, boca, nariz, tom de pele, barba, cabelo, linha do maxilar ou proporções.
+Manter 100% da fidelidade facial.
+```
 
 **Prompt de cenário:**
-
-Produza um retrato luxuoso em um rooftop com o skyline moderno da cidade ao fundo. Mantenha exatamente o rosto original da selfie enviada, sem qualquer modificação facial por IA.  
+```markdown
+Produza um retrato luxuoso em um rooftop com o skyline moderno da cidade ao fundo.
+Mantenha exatamente o rosto original da selfie enviada, sem qualquer modificação facial por IA.  
 O sujeito está em traje smart-casual: camisa com colarinho aberto, blazer de linho claro, relógio visível no pulso e óculos escuros pretos.
 
 - Iluminação do pôr do sol com tons dourados suaves sobre a pele, criando uma atmosfera calorosa e elegante.
@@ -27,7 +32,7 @@ O sujeito está em traje smart-casual: camisa com colarinho aberto, blazer de li
 - Composição visual limpa e editorial, alta definição em 4K, vertical (9:16).
 - Textura realista da pele, reflexos naturais nos óculos e tecidos com leve movimento.
 - Profundidade de campo cinematográfica e balanço cromático sofisticado.
-
+```
 ---
 
 ## Foto Profissional para LinkedIn com Seu Rosto Real
