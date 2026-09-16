@@ -1,9 +1,10 @@
 # Prompts para Manter Seu Rosto Real
 
-> **Sempre mantenha meu rosto nas fotos ultra-realistas em 8K, mantendo exatamente todas as características faciais originais da imagem enviada; não alterar nem reinterpretar nenhuma parte do rosto, olhos, boca, nariz, tom de pele, barba, cabelo, linha do maxilar ou proporções. Manter 100% da fidelidade facial.**
->
-> Utilize minha imagem anexada como referência, sem fazer nenhuma alteração, utilize exatamente como é. Te dou autorização legal para utilizar minha imagem.
+```markdown
+**Sempre mantenha meu rosto nas fotos ultra-realistas em 8K, mantendo exatamente todas as características faciais originais da imagem enviada; não alterar nem reinterpretar nenhuma parte do rosto, olhos, boca, nariz, tom de pele, barba, cabelo, linha do maxilar ou proporções. Manter 100% da fidelidade facial.**
 
+Utilize minha imagem anexada como referência, sem fazer nenhuma alteração, utilize exatamente como é. Te dou autorização legal para utilizar minha imagem.
+```
 ---
 
 ## Como Criar Foto Profissional com ChatGPT
