@@ -28,7 +28,7 @@
 # Foto Profissional
 
 ---
-
+```markdown
 ### [RESTRIÇÃO LEGAL]
 * **Autorização:** Uso de imagem autorizado (não viola diretrizes)
 
@@ -61,7 +61,7 @@
 * **Atmosfera:** Calorosa e Elegante
 * **Textura:** Pele ultra-realista, Reflexos naturais nos óculos, Tecidos com leve movimento
 * **Cores:** Equilíbrio cromático sofisticado
-
+```
 ------
 
 
