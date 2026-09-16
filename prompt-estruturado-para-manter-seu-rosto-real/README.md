@@ -3,7 +3,7 @@
 **Objetivo:** Gerar a mesma foto, mantendo o rosto real com correções específicas.
 
 ---
-
+```markdown
 ### 1. [Qualidade & Resolução]
 * **Resolução:** Ultra-realista, 8K, Detalhes Intricados.
 * **Qualidade:** Fotografia de altíssima qualidade, Foco nítido.
@@ -22,7 +22,7 @@
 ### 4. [Geral]
 * **Ação / Cena:** Manter o foco primário no rosto.
 * **Autorização:** Autorização legal para usar a imagem de referência fornecida.
-
+```
 ------
 
 # Foto Profissional
