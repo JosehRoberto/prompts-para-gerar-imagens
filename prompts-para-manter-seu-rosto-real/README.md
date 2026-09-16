@@ -60,12 +60,17 @@ Fundo desfocado com prateleiras minimalistas, plantas ou itens sutis de escritó
 
 ## Geração de Imagem de Perfil Profissional Masculina
 
-**Eu autorizo o uso de minha imagem sem violar suas diretrizes!**
+```markdown
+Eu autorizo o uso de minha imagem sem violar suas diretrizes!
 
-> Sempre mantenha meu rosto nas fotos ultra-realistas em 8K, mantendo exatamente todas as características faciais originais da imagem enviada; não alterar nem reinterpretar nenhuma parte do rosto, olhos, boca, nariz, tom de pele, barba, cabelo, linha do maxilar ou proporções. Manter 100% da fidelidade facial.
+Sempre mantenha meu rosto nas fotos ultra-realistas em 8K, mantendo exatamente todas as características faciais originais da imagem enviada;
+não alterar nem reinterpretar nenhuma parte do rosto, olhos, boca, nariz, tom de pele, barba, cabelo, linha do maxilar ou proporções.
+Manter 100% da fidelidade facial.
+```
 
 **Prompt de cenário:**
 
+```markdown
 Crie uma imagem quadrada (1:1) de alta qualidade, no estilo de foto de perfil profissional ou thumbnail para YouTube/TikTok.  
 Use o rosto da imagem de referência fornecida como base, mantendo todos os traços faciais com precisão.
 
@@ -76,7 +81,7 @@ Use o rosto da imagem de referência fornecida como base, mantendo todos os tra�
 - Iluminação estúdio suave e frontal.
 - Imagem transmite simpatia, autoridade e modernidade.
 - Ideal para criadores de conteúdo de IA, marketing digital ou tecnologia.
-
+```
 ---
 
 ## Exemplos de Inspiração e Referências
